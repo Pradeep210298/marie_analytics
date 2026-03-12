@@ -1,1 +1,5 @@
-# marie_analytics
+# Analytics Monitor
+
+Small tool for checking analytics service health.
+
+Used internally for debugging analytics pipelines.
